@@ -1,3 +1,1 @@
-ID="a2f7e69c-d942-4561-89ec-109de68f8fba";
-RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/MM2-Halloween2026.luau"));
-loadstring(game:HttpGet("https://cdn.project-reverse.org/loader.luau"))();
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImEyZjdlNjljLWQ5NDItNDU2MS04OWVjLTEwOWRlNjhmOGZiYSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJoYWxsb3dlZW5ldmVudCJ9fQ"))()
